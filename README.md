@@ -56,7 +56,7 @@ Chess/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Harsh16gupta/Chess.git
+git clone https://github.com/silentshivam00/Chess.in.git
 cd Chess
 ```
 
